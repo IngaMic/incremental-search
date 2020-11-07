@@ -1,0 +1,10 @@
+.highlight {
+    background-color: rgb(127, 214, 214);
+}
+#results {
+    max-width: 165px;
+}
+.styled {
+    margin-top: 60px;
+    margin-left: 90px;
+}
